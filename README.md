@@ -6,7 +6,7 @@ In this project, I explored a Supermart Store's sales data to find useful insigh
 ## Installation
 To install PostgreSQL, you can follow these steps:
 
-1. Visit the official PostgreSQL website at [www.postgresql.org](www.postgresql.org).
+1. Visit the official PostgreSQL website at [www.postgresql.org](https://www.postgresql.org/).
 2. Navigate to the "Downloads" section.
 3. Choose the appropriate version of PostgreSQL for your operating system (Windows, macOS, or Linux).
 4. Click on the download link for your operating system.
