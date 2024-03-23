@@ -36,8 +36,17 @@ When it comes to data exploration, there are several steps you can follow:
 5. Iterative Process: Data exploration is often an iterative process, so I had to go back and forth between steps to refine my analysis and gained deeper insights.
 
 ## Results
+After exploring the data, these are some of the questions I answered;
+
+-Maximun and minimum sales value
+
+-Monthy sales of some sub-categories
+
+-I picked 5 lucky customers after winning a lottery
+
+For more in-depth analysis, you can visit the postgresql query [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Supermart%20Store%20Query.sql)
 
 ## Conclusion
 After exploring the data in PostgreSQL, I've discovered some interesting insights. There were clear patterns and relationships among the variables, which helped me gain a deeper understanding of the dataset. By analyzing the data, I was able to identify key trends and drew meaningful conclusions. These findings provide valuable insights that can be used to make informed decisions and drive further analysis. Overall, the data exploration project in PostgreSQL was a success, and I'm excited about the valuable information I uncovered.
 
-For the postgresql code I used fot the project, you can find it here [supermart_query](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/SuperMart%20Query.sql)
+For the postgresql code I used fot the project, you can find it here [supermart_query](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Supermart%20Store%20Query.sql)
