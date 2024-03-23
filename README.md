@@ -1,7 +1,7 @@
 # Data-Exploration-in-PostgreSQL
 
 ## Introduction
-In this project, I explored a Company's sales data to find useful insights like top selling products and state that generates the highest profit by analyzing records in the Customer, Product, and Sales Table.
+In this project, I explored a Supermart Store's sales data to find useful insights like top selling products and state that generates the highest profit by analyzing records in the Customer, Product, and Sales Table.
 
 ## Installation
 To install PostgreSQL, you can follow these steps:
@@ -15,13 +15,12 @@ To install PostgreSQL, you can follow these steps:
 7. After the installation is complete, you can start using PostgreSQL by opening the command prompt or terminal and typing "psql" to access the PostgreSQL command-line interface.
 
 ## Data Source
-In this project, I worked with three(3) different datasets;The customer data which contains information about the customer like, customer name, customer id, age, city, e.t.c.
+In this project, I worked with three(3) different datasets;
+The customer data which contains information about the customer like, customer name, customer id, age, city, e.t.c. The customer data can be found [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Customer.csv)
 
-The customer data can be found [here]()
+The product data which contains information about the store's product like product name and product id. The product data can be found [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Product.csv)
 
-The product data which contains information about the company's product like product name and product id. The product data can be found [here]()
-
-The sales data which contains information about the orders each customer made like customer id, product id, order id, and sales value. The sales data can be found [here]()
+The sales data which contains information about the orders each customer made like customer id, product id, order id, and sales value. The sales data can be found [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Sales.csv)
 
 ## Data Exploration
 When it comes to data exploration, there are several steps you can follow:
@@ -40,3 +39,5 @@ When it comes to data exploration, there are several steps you can follow:
 
 ## Conclusion
 After exploring the data in PostgreSQL, I've discovered some interesting insights. There were clear patterns and relationships among the variables, which helped me gain a deeper understanding of the dataset. By analyzing the data, I was able to identify key trends and drew meaningful conclusions. These findings provide valuable insights that can be used to make informed decisions and drive further analysis. Overall, the data exploration project in PostgreSQL was a success, and I'm excited about the valuable information I uncovered.
+
+For the postgresql code I used fot the project, you can find it here [supermart_query](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/SuperMart%20Query.sql)
